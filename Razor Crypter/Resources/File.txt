@@ -1,0 +1,24 @@
+	class %2%
+	{
+		public int %3%;
+		public String %4%; 
+		public String %9%;
+		public void %12%() {
+			String %8% = "%7%" + %9% + "%5%" + %4% + "%6%" + %3%;
+ 
+			System.Console.WriteLine (%8%);
+		}
+		public void %10%(String %9%){
+			this.%9% =  %9%;
+		}
+ 
+		public String %11%() {
+			return %9%;
+		}
+		struct %13%
+{
+            public int %14%;
+            public bool %15%;
+            public double %16%;
+   };
+}
